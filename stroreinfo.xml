@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type ="text/css" href="style.css"?>
+<university>
+<student>
+<name>Rohit Damor</name>
+<EnrollmentNumber>0701cs221055</EnrollmentNumber>
+<dept>CSE</dept>
+<phone>9589813933</phone>
+<mail>mrrohitdamor@gmail.com</mail>
+</student>
+<student>
+<name>Umesh Sangulle</name>
+<EnrollmentNumber>0701cs221070</EnrollmentNumber>
+<dept>CSE</dept>
+<phone>7240901206</phone>
+<mail>sangulleumesh@gmail.com</mail>
+</student>
+<student>
+<name>Pankaj Rawat</name>
+<EnrollmentNumber>0701cs221049</EnrollmentNumber>
+<dept>CSE</dept>
+<phone>+9187*******8</phone>
+<mail>abc@gmail.com</mail>
+</student>
+<student>
+<name>Saniya Singad</name>
+<EnrollmentNumber>0701cs****</EnrollmentNumber>
+<dept>CSE</dept>
+<phone>+9189*******6</phone>
+<mail>sani*****@gmail.com</mail>
+</student>
+<student>
+<name>Nandani Randa</name>
+<EnrollmentNumber>0701cs****</EnrollmentNumber>
+<dept>CSE</dept>
+<phone>+9196*******0</phone>
+<mail>Nan*****@gmail.com</mail>
+</student>
+</university>
